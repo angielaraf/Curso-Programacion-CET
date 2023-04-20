@@ -9,3 +9,5 @@ Clase 2: Se encuentran los ejercicios vistos en clase y la solución al taller d
 Clase 3: Se encuentran los ejercicios vistos en clase y la solución al taller 2.
 
 Clase 4: Se encuentran los ejercicios vistos en clase y la solución al taller 3.
+
+Carpeta Pagina Web: Se encuentra la página web creada con html acerca de Notion, sus usos, características y galeria de imagenes de plantillas creadas en Notion. Y el ejercicio desarrollado en javascript.
